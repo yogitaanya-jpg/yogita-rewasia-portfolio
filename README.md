@@ -12,6 +12,7 @@ A clean, responsive, and modern personal portfolio & interactive resume website 
 ## 📌 Features
 
 - **Responsive & Clean UI:** Designed with a modern slate & indigo palette, typography via Plus Jakarta Sans, and glassmorphic cards.
+- **Vertical Video Intro (Shorts / Reel):** Embedded 36-second dynamic programmatic motion video (`assets/intro_en.mp4`) showcasing core competencies and milestones.
 - **Dark & Light Mode:** Seamless theme switcher with persistent local storage and automatic system color preference detection.
 - **Interactive Experience Timeline:** Detailed career history across Cognizant, Asha and Pragati NGO, and Educational institutions.
 - **Visual Competency Matrix:** Interactive progress bars and skill cloud showcasing Microsoft Excel, Data Analytics, Financial Auditing, and Team Management.
